@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.css{
+    border: 5px solid mediumseagreen;
+    margin: 20px 50px 70px;
+    border-radius: 5px;
+}
+.header{
+    margin-top: 20px;
+    text-align: center;
+    font-size: ;
+
+}
